@@ -34,11 +34,6 @@ for i, image in enumerate(image_list, 1):
         print("Tesseract:\n")
         for result in result_tesseract:
             print(result)
-        
-        if result_easyocr == result_tesseract:
-            print("Match")
-        else:
-            print("Different")
             
     except Exception as e:
         print(f"Error: {e}")
