@@ -17,7 +17,8 @@ class easyOCR:
         detected_text = []
         for (bbox, text, confidence) in results:
             if confidence > 0.1:  # Confidence threshold
-                detected_text.append({'text': text,'confidence': confidence})
+                confidence = round(float(confidence), 2)
+                detected_text.append({'text': text,'confidence': float(confidence)})
                 
                 if self.visualize:
                     pts = np.array(bbox, dtype=np.int32)
