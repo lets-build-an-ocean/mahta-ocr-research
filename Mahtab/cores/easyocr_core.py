@@ -7,6 +7,7 @@ class easyOCR:
     def __init__(self, visualize = False):
         self.reader = easyocr.Reader(['ar', 'fa'])
         self.visualize = visualize
+        self.confidence_threshold = 0.1
 
     def detect_text(self, image_path : str):
         results = self.reader.readtext(image_path)
@@ -16,7 +17,7 @@ class easyOCR:
 
         detected_text = []
         for (bbox, text, confidence) in results:
-            if confidence > 0.1:  # Confidence threshold
+            if confidence > self.confidence_threshold:  # Confidence threshold
                 confidence = round(float(confidence), 2)
                 detected_text.append({'text': text,'confidence': float(confidence)})
                 

@@ -7,6 +7,7 @@ class tesseractOCR:
         pytesseract.pytesseract.tesseract_cmd = r'/usr/bin/tesseract'  # Adjust path if needed
         self.config = '--oem 3 --psm 6 -l ara+fas'
         self.visualize = visualize
+        self.confidence_threshold = 0.1
     
     def detect_text(self, image_path: str):
         image = cv2.imread(image_path)
@@ -18,7 +19,7 @@ class tesseractOCR:
             text = data['text'][i].strip()
             confidence = float(data['conf'][i]) / 100.0  # Convert to 0-1 scale like EasyOCR
             
-            if confidence > 0.1 and text:  # Confidence threshold
+            if confidence > self.confidence_threshold and text:
                 detected_text.append({
                     'text': text,
                     'confidence': confidence
