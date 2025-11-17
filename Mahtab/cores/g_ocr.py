@@ -1,30 +1,36 @@
 from google.cloud import vision
 
-class GoogleOCR:
-    def __init__(self):
-        self.client = vision.ImageAnnotatorClient()
-    
 
-    def detect_text(self, image_path : str):
-        with open(image_path, 'rb') as image_file:
-            content = image_file.read()
+def extract_by_table_structure(image_path):
+    client = vision.ImageAnnotatorClient()
     
-        image = vision.Image(content=content)
+    with open(image_path, 'rb') as image_file:
+        content = image_file.read()
     
-        # Detect document text
-        response = self.client.document_text_detection(image=image)
+    image = vision.Image(content=content)
+    response = client.document_text_detection(image=image)
     
-        if response.error.message:
-            raise Exception(f'API Error: {response.error.message}')
+    # Get all text blocks
+    blocks = []
+    for page in response.full_text_annotation.pages:
+        for block in page.blocks:
+            block_text = ""
+            for paragraph in block.paragraphs:
+                for word in paragraph.words:
+                    word_text = ''.join([symbol.text for symbol in word.symbols])
+                    block_text += word_text + " "
+            
+            blocks.append({
+                'text': block_text.strip(),
+                'bounding_box': block.bounding_box,
+                'vertices': [(vertex.x, vertex.y) for vertex in block.bounding_box.vertices]
+            })
     
-        if response.full_text_annotation:
-            return response.full_text_annotation.text
-        else:
-            return "No text found"
+    return blocks
 
 
 
 if __name__ == "__main__":
-    gocr = GoogleOCR()
-    text = gocr.detect_text("/home/mohsen/Desktop/homelab/mahta/output-03.png")
-    print(text)
+    img = "/home/mohsen/Desktop/homelab/mahta/test-data/test-2.jpg"
+    blocks = extract_by_table_structure(img)
+    breakpoint()
