@@ -1,0 +1,1627 @@
+[
+  {
+    "page_number": 1,
+    "dimensions": {
+      "width": 960,
+      "height": 1280
+    },
+    "blocks": [
+      {
+        "block_number": 1,
+        "type": 1,
+        "confidence": 0.6635594964027405,
+        "bounding_box": {
+          "x1": 823,
+          "y1": 87,
+          "x2": 925,
+          "y2": 113
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "لأمان",
+            "confidence": 0.6635594964027405,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "لأمان",
+                "position": {
+                  "x": 823,
+                  "y": 87
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 2,
+        "type": 1,
+        "confidence": 0.9736185073852539,
+        "bounding_box": {
+          "x1": 594,
+          "y1": 106,
+          "x2": 934,
+          "y2": 147
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "آزمون شبیه ساز نهایی درس سلامت و بهداشت تعداد : صفحه",
+            "confidence": 0.9736185073852539,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "آزمون",
+                "position": {
+                  "x": 905,
+                  "y": 126
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "شبیه",
+                "position": {
+                  "x": 874,
+                  "y": 124
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "ساز",
+                "position": {
+                  "x": 855,
+                  "y": 123
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "نهایی",
+                "position": {
+                  "x": 824,
+                  "y": 120
+                }
+              },
+              {
+                "word_number": 5,
+                "text": "درس",
+                "position": {
+                  "x": 794,
+                  "y": 118
+                }
+              },
+              {
+                "word_number": 6,
+                "text": "سلامت",
+                "position": {
+                  "x": 749,
+                  "y": 115
+                }
+              },
+              {
+                "word_number": 7,
+                "text": "و",
+                "position": {
+                  "x": 738,
+                  "y": 115
+                }
+              },
+              {
+                "word_number": 8,
+                "text": "بهداشت",
+                "position": {
+                  "x": 693,
+                  "y": 111
+                }
+              },
+              {
+                "word_number": 9,
+                "text": "تعداد",
+                "position": {
+                  "x": 633,
+                  "y": 113
+                }
+              },
+              {
+                "word_number": 10,
+                "text": ":",
+                "position": {
+                  "x": 618,
+                  "y": 113
+                }
+              },
+              {
+                "word_number": 11,
+                "text": "صفحه",
+                "position": {
+                  "x": 594,
+                  "y": 113
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 3,
+        "type": 1,
+        "confidence": 0.9872747659683228,
+        "bounding_box": {
+          "x1": 843,
+          "y1": 151,
+          "x2": 935,
+          "y2": 172
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "نام و نام خانوادگی",
+            "confidence": 0.9872747659683228,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "نام",
+                "position": {
+                  "x": 922,
+                  "y": 154
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "و",
+                "position": {
+                  "x": 912,
+                  "y": 154
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "نام",
+                "position": {
+                  "x": 895,
+                  "y": 153
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "خانوادگی",
+                "position": {
+                  "x": 843,
+                  "y": 151
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 4,
+        "type": 1,
+        "confidence": 0.9740701913833618,
+        "bounding_box": {
+          "x1": 896,
+          "y1": 184,
+          "x2": 929,
+          "y2": 200
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "ردیف",
+            "confidence": 0.9740701913833618,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "ردیف",
+                "position": {
+                  "x": 896,
+                  "y": 184
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 5,
+        "type": 1,
+        "confidence": 0.8499301671981812,
+        "bounding_box": {
+          "x1": 922,
+          "y1": 571,
+          "x2": 937,
+          "y2": 584
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "1 .",
+            "confidence": 0.8499301671981812,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "1",
+                "position": {
+                  "x": 922,
+                  "y": 572
+                }
+              },
+              {
+                "word_number": 2,
+                "text": ".",
+                "position": {
+                  "x": 927,
+                  "y": 571
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 6,
+        "type": 1,
+        "confidence": 0.7225231528282166,
+        "bounding_box": {
+          "x1": 918,
+          "y1": 861,
+          "x2": 935,
+          "y2": 873
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "۱۲",
+            "confidence": 0.7225231528282166,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "۱۲",
+                "position": {
+                  "x": 918,
+                  "y": 861
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 7,
+        "type": 1,
+        "confidence": 0.9269191026687622,
+        "bounding_box": {
+          "x1": 861,
+          "y1": 414,
+          "x2": 889,
+          "y2": 426
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "الف )",
+            "confidence": 0.9269191026687622,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "الف",
+                "position": {
+                  "x": 865,
+                  "y": 414
+                }
+              },
+              {
+                "word_number": 2,
+                "text": ")",
+                "position": {
+                  "x": 861,
+                  "y": 414
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 8,
+        "type": 1,
+        "confidence": 0.616027295589447,
+        "bounding_box": {
+          "x1": 563,
+          "y1": 110,
+          "x2": 572,
+          "y2": 122
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "Y",
+            "confidence": 0.616027295589447,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "Y",
+                "position": {
+                  "x": 563,
+                  "y": 110
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 9,
+        "type": 1,
+        "confidence": 0.9818234443664551,
+        "bounding_box": {
+          "x1": 446,
+          "y1": 83,
+          "x2": 505,
+          "y2": 99
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "به نام خدا",
+            "confidence": 0.9818234443664551,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "به",
+                "position": {
+                  "x": 494,
+                  "y": 83
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "نام",
+                "position": {
+                  "x": 473,
+                  "y": 83
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "خدا",
+                "position": {
+                  "x": 446,
+                  "y": 83
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 10,
+        "type": 1,
+        "confidence": 0.9786217212677002,
+        "bounding_box": {
+          "x1": 435,
+          "y1": 112,
+          "x2": 461,
+          "y2": 125
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "رشته",
+            "confidence": 0.9786217212677002,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "رشته",
+                "position": {
+                  "x": 435,
+                  "y": 112
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 11,
+        "type": 1,
+        "confidence": 0.964475691318512,
+        "bounding_box": {
+          "x1": 288,
+          "y1": 117,
+          "x2": 362,
+          "y2": 126
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "کلیه رشته ها",
+            "confidence": 0.964475691318512,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "کلیه",
+                "position": {
+                  "x": 335,
+                  "y": 113
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "رشته",
+                "position": {
+                  "x": 299,
+                  "y": 117
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "ها",
+                "position": {
+                  "x": 288,
+                  "y": 118
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 12,
+        "type": 1,
+        "confidence": 0.9702939987182617,
+        "bounding_box": {
+          "x1": 96,
+          "y1": 136,
+          "x2": 157,
+          "y2": 143
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "ساعت شروع",
+            "confidence": 0.9702939987182617,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "ساعت",
+                "position": {
+                  "x": 126,
+                  "y": 132
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "شروع",
+                "position": {
+                  "x": 96,
+                  "y": 137
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 13,
+        "type": 1,
+        "confidence": 0.9707017540931702,
+        "bounding_box": {
+          "x1": 397,
+          "y1": 137,
+          "x2": 650,
+          "y2": 158
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "دوره دوم متوسطه - دوازدهم تاریخ آزمون",
+            "confidence": 0.9707017540931702,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "دوره",
+                "position": {
+                  "x": 621,
+                  "y": 137
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "دوم",
+                "position": {
+                  "x": 595,
+                  "y": 137
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "متوسطه",
+                "position": {
+                  "x": 547,
+                  "y": 138
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "-",
+                "position": {
+                  "x": 534,
+                  "y": 138
+                }
+              },
+              {
+                "word_number": 5,
+                "text": "دوازدهم",
+                "position": {
+                  "x": 481,
+                  "y": 138
+                }
+              },
+              {
+                "word_number": 6,
+                "text": "تاریخ",
+                "position": {
+                  "x": 433,
+                  "y": 138
+                }
+              },
+              {
+                "word_number": 7,
+                "text": "آزمون",
+                "position": {
+                  "x": 397,
+                  "y": 138
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 14,
+        "type": 1,
+        "confidence": 0.945972204208374,
+        "bounding_box": {
+          "x1": 440,
+          "y1": 171,
+          "x2": 503,
+          "y2": 186
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "پاسخبرگ",
+            "confidence": 0.945972204208374,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "پاسخبرگ",
+                "position": {
+                  "x": 440,
+                  "y": 171
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 15,
+        "type": 1,
+        "confidence": 0.6831322312355042,
+        "bounding_box": {
+          "x1": 257,
+          "y1": 147,
+          "x2": 338,
+          "y2": 156
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "۱۴۰۴/۰۲/۲۵",
+            "confidence": 0.6831322312355042,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "۱۴۰۴/۰۲/۲۵",
+                "position": {
+                  "x": 257,
+                  "y": 147
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 16,
+        "type": 1,
+        "confidence": 0.9884210824966431,
+        "bounding_box": {
+          "x1": 221,
+          "y1": 202,
+          "x2": 738,
+          "y2": 216
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "پاسخهای خود را در محلهای تعیین شده به صورت دقیق خوش خط و مرتب وارد کنید",
+            "confidence": 0.9884210824966431,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "پاسخهای",
+                "position": {
+                  "x": 684,
+                  "y": 196
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "خود",
+                "position": {
+                  "x": 653,
+                  "y": 197
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "را",
+                "position": {
+                  "x": 639,
+                  "y": 197
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "در",
+                "position": {
+                  "x": 619,
+                  "y": 197
+                }
+              },
+              {
+                "word_number": 5,
+                "text": "محلهای",
+                "position": {
+                  "x": 560,
+                  "y": 198
+                }
+              },
+              {
+                "word_number": 6,
+                "text": "تعیین",
+                "position": {
+                  "x": 520,
+                  "y": 199
+                }
+              },
+              {
+                "word_number": 7,
+                "text": "شده",
+                "position": {
+                  "x": 488,
+                  "y": 200
+                }
+              },
+              {
+                "word_number": 8,
+                "text": "به",
+                "position": {
+                  "x": 472,
+                  "y": 200
+                }
+              },
+              {
+                "word_number": 9,
+                "text": "صورت",
+                "position": {
+                  "x": 428,
+                  "y": 200
+                }
+              },
+              {
+                "word_number": 10,
+                "text": "دقیق",
+                "position": {
+                  "x": 392,
+                  "y": 201
+                }
+              },
+              {
+                "word_number": 11,
+                "text": "خوش",
+                "position": {
+                  "x": 350,
+                  "y": 202
+                }
+              },
+              {
+                "word_number": 12,
+                "text": "خط",
+                "position": {
+                  "x": 324,
+                  "y": 202
+                }
+              },
+              {
+                "word_number": 13,
+                "text": "و",
+                "position": {
+                  "x": 314,
+                  "y": 203
+                }
+              },
+              {
+                "word_number": 14,
+                "text": "مرتب",
+                "position": {
+                  "x": 278,
+                  "y": 203
+                }
+              },
+              {
+                "word_number": 15,
+                "text": "وارد",
+                "position": {
+                  "x": 251,
+                  "y": 204
+                }
+              },
+              {
+                "word_number": 16,
+                "text": "کنید",
+                "position": {
+                  "x": 221,
+                  "y": 204
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 17,
+        "type": 1,
+        "confidence": 0.8748659491539001,
+        "bounding_box": {
+          "x1": 38,
+          "y1": 164,
+          "x2": 155,
+          "y2": 177
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "مدت زمان ۳۰ دقیقه",
+            "confidence": 0.8748659491539001,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "مدت",
+                "position": {
+                  "x": 130,
+                  "y": 161
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "زمان",
+                "position": {
+                  "x": 102,
+                  "y": 162
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "۳۰",
+                "position": {
+                  "x": 69,
+                  "y": 163
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "دقیقه",
+                "position": {
+                  "x": 38,
+                  "y": 164
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 18,
+        "type": 1,
+        "confidence": 0.9215177893638611,
+        "bounding_box": {
+          "x1": 37,
+          "y1": 197,
+          "x2": 62,
+          "y2": 205
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "نمره",
+            "confidence": 0.9215177893638611,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "نمره",
+                "position": {
+                  "x": 37,
+                  "y": 197
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 19,
+        "type": 1,
+        "confidence": 0.8977161645889282,
+        "bounding_box": {
+          "x1": 719,
+          "y1": 469,
+          "x2": 840,
+          "y2": 490
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "قطرات",
+            "confidence": 0.8977161645889282,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "قطرات",
+                "position": {
+                  "x": 719,
+                  "y": 469
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 20,
+        "type": 1,
+        "confidence": 0.8204625844955444,
+        "bounding_box": {
+          "x1": 411,
+          "y1": 416,
+          "x2": 434,
+          "y2": 430
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "ب )",
+            "confidence": 0.8204625844955444,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "ب",
+                "position": {
+                  "x": 419,
+                  "y": 416
+                }
+              },
+              {
+                "word_number": 2,
+                "text": ")",
+                "position": {
+                  "x": 411,
+                  "y": 416
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 21,
+        "type": 1,
+        "confidence": 0.888038694858551,
+        "bounding_box": {
+          "x1": 278,
+          "y1": 396,
+          "x2": 367,
+          "y2": 431
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "نیکوتین",
+            "confidence": 0.888038694858551,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "نیکوتین",
+                "position": {
+                  "x": 278,
+                  "y": 396
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 22,
+        "type": 1,
+        "confidence": 0.6299742460250854,
+        "bounding_box": {
+          "x1": 435,
+          "y1": 491,
+          "x2": 418,
+          "y2": 505
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "c )",
+            "confidence": 0.6299742460250854,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "c",
+                "position": {
+                  "x": 435,
+                  "y": 492
+                }
+              },
+              {
+                "word_number": 2,
+                "text": ")",
+                "position": {
+                  "x": 427,
+                  "y": 491
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 23,
+        "type": 1,
+        "confidence": 0.8915575742721558,
+        "bounding_box": {
+          "x1": 257,
+          "y1": 457,
+          "x2": 409,
+          "y2": 501
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "آمونیاک",
+            "confidence": 0.8915575742721558,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "آمونیاک",
+                "position": {
+                  "x": 257,
+                  "y": 457
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 24,
+        "type": 1,
+        "confidence": 0.9041732549667358,
+        "bounding_box": {
+          "x1": 373,
+          "y1": 628,
+          "x2": 849,
+          "y2": 741
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "کشیدن ضامن تمرکز بر روی آتش",
+            "confidence": 0.948591947555542,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "کشیدن",
+                "position": {
+                  "x": 753,
+                  "y": 632
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "ضامن",
+                "position": {
+                  "x": 677,
+                  "y": 632
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "تمرکز",
+                "position": {
+                  "x": 538,
+                  "y": 630
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "بر",
+                "position": {
+                  "x": 509,
+                  "y": 630
+                }
+              },
+              {
+                "word_number": 5,
+                "text": "روی",
+                "position": {
+                  "x": 453,
+                  "y": 629
+                }
+              },
+              {
+                "word_number": 6,
+                "text": "آتش",
+                "position": {
+                  "x": 373,
+                  "y": 629
+                }
+              }
+            ]
+          },
+          {
+            "paragraph_number": 2,
+            "text": "اسپری کردن کے فشار آورد",
+            "confidence": 0.8527411818504333,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "اسپری",
+                "position": {
+                  "x": 734,
+                  "y": 700
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "کردن",
+                "position": {
+                  "x": 667,
+                  "y": 699
+                }
+              },
+              {
+                "word_number": 3,
+                "text": "کے",
+                "position": {
+                  "x": 602,
+                  "y": 699
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "فشار",
+                "position": {
+                  "x": 513,
+                  "y": 698
+                }
+              },
+              {
+                "word_number": 5,
+                "text": "آورد",
+                "position": {
+                  "x": 424,
+                  "y": 696
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 25,
+        "type": 1,
+        "confidence": 0.8864639401435852,
+        "bounding_box": {
+          "x1": 750,
+          "y1": 804,
+          "x2": 891,
+          "y2": 850
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "( الف ) گاز",
+            "confidence": 0.8864639401435852,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "(",
+                "position": {
+                  "x": 884,
+                  "y": 813
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "الف",
+                "position": {
+                  "x": 867,
+                  "y": 812
+                }
+              },
+              {
+                "word_number": 3,
+                "text": ")",
+                "position": {
+                  "x": 862,
+                  "y": 812
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "گاز",
+                "position": {
+                  "x": 750,
+                  "y": 804
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 26,
+        "type": 1,
+        "confidence": 0.7914061546325684,
+        "bounding_box": {
+          "x1": 410,
+          "y1": 826,
+          "x2": 433,
+          "y2": 840
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "ب )",
+            "confidence": 0.7914061546325684,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "ب",
+                "position": {
+                  "x": 418,
+                  "y": 826
+                }
+              },
+              {
+                "word_number": 2,
+                "text": ")",
+                "position": {
+                  "x": 410,
+                  "y": 826
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 27,
+        "type": 1,
+        "confidence": 0.9751827716827393,
+        "bounding_box": {
+          "x1": 290,
+          "y1": 793,
+          "x2": 355,
+          "y2": 837
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "برق",
+            "confidence": 0.9751827716827393,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "برق",
+                "position": {
+                  "x": 290,
+                  "y": 793
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 28,
+        "type": 1,
+        "confidence": 0.5990014672279358,
+        "bounding_box": {
+          "x1": 915,
+          "y1": 1055,
+          "x2": 934,
+          "y2": 1066
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "۱۳",
+            "confidence": 0.5990014672279358,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "۱۳",
+                "position": {
+                  "x": 915,
+                  "y": 1055
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 29,
+        "type": 1,
+        "confidence": 0.9760067462921143,
+        "bounding_box": {
+          "x1": 732,
+          "y1": 882,
+          "x2": 816,
+          "y2": 906
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "بنزین",
+            "confidence": 0.9760067462921143,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "بنزین",
+                "position": {
+                  "x": 732,
+                  "y": 882
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 30,
+        "type": 1,
+        "confidence": 0.9275615215301514,
+        "bounding_box": {
+          "x1": 873,
+          "y1": 909,
+          "x2": 891,
+          "y2": 922
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "ج )",
+            "confidence": 0.9275615215301514,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "ج",
+                "position": {
+                  "x": 879,
+                  "y": 909
+                }
+              },
+              {
+                "word_number": 2,
+                "text": ")",
+                "position": {
+                  "x": 873,
+                  "y": 909
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 31,
+        "type": 1,
+        "confidence": 0.8843986392021179,
+        "bounding_box": {
+          "x1": 762,
+          "y1": 981,
+          "x2": 896,
+          "y2": 1013
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "( الف ) دوچر",
+            "confidence": 0.8843986392021179,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "(",
+                "position": {
+                  "x": 887,
+                  "y": 985
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "الف",
+                "position": {
+                  "x": 866,
+                  "y": 985
+                }
+              },
+              {
+                "word_number": 3,
+                "text": ")",
+                "position": {
+                  "x": 859,
+                  "y": 984
+                }
+              },
+              {
+                "word_number": 4,
+                "text": "دوچر",
+                "position": {
+                  "x": 762,
+                  "y": 981
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 32,
+        "type": 1,
+        "confidence": 0.7953736186027527,
+        "bounding_box": {
+          "x1": 865,
+          "y1": 1067,
+          "x2": 887,
+          "y2": 1080
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "ب )",
+            "confidence": 0.7953736186027527,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "ب",
+                "position": {
+                  "x": 872,
+                  "y": 1067
+                }
+              },
+              {
+                "word_number": 2,
+                "text": ")",
+                "position": {
+                  "x": 865,
+                  "y": 1068
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 33,
+        "type": 1,
+        "confidence": 0.9094207882881165,
+        "bounding_box": {
+          "x1": 432,
+          "y1": 1177,
+          "x2": 514,
+          "y2": 1196
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "موفق باشید .",
+            "confidence": 0.9094207882881165,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "موفق",
+                "position": {
+                  "x": 479,
+                  "y": 1179
+                }
+              },
+              {
+                "word_number": 2,
+                "text": "باشید",
+                "position": {
+                  "x": 436,
+                  "y": 1178
+                }
+              },
+              {
+                "word_number": 3,
+                "text": ".",
+                "position": {
+                  "x": 432,
+                  "y": 1178
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 34,
+        "type": 1,
+        "confidence": 0.5509811639785767,
+        "bounding_box": {
+          "x1": 28,
+          "y1": 586,
+          "x2": 41,
+          "y2": 569
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "i >",
+            "confidence": 0.5509811639785767,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "i",
+                "position": {
+                  "x": 28,
+                  "y": 586
+                }
+              },
+              {
+                "word_number": 2,
+                "text": ">",
+                "position": {
+                  "x": 28,
+                  "y": 584
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 35,
+        "type": 1,
+        "confidence": 0.8544324636459351,
+        "bounding_box": {
+          "x1": 32,
+          "y1": 572,
+          "x2": 44,
+          "y2": 584
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "A",
+            "confidence": 0.8544324636459351,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "A",
+                "position": {
+                  "x": 32,
+                  "y": 572
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 36,
+        "type": 1,
+        "confidence": 0.7336581945419312,
+        "bounding_box": {
+          "x1": 27,
+          "y1": 688,
+          "x2": 32,
+          "y2": 699
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "1",
+            "confidence": 0.7336581945419312,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "1",
+                "position": {
+                  "x": 27,
+                  "y": 688
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 37,
+        "type": 1,
+        "confidence": 0.8061183094978333,
+        "bounding_box": {
+          "x1": 19,
+          "y1": 852,
+          "x2": 42,
+          "y2": 863
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "۱.۵",
+            "confidence": 0.8061183094978333,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "۱.۵",
+                "position": {
+                  "x": 19,
+                  "y": 852
+                }
+              }
+            ]
+          }
+        ]
+      },
+      {
+        "block_number": 38,
+        "type": 1,
+        "confidence": 0.7016729116439819,
+        "bounding_box": {
+          "x1": 42,
+          "y1": 1154,
+          "x2": 57,
+          "y2": 1164
+        },
+        "paragraphs": [
+          {
+            "paragraph_number": 1,
+            "text": "۲۰",
+            "confidence": 0.7016729116439819,
+            "words": [
+              {
+                "word_number": 1,
+                "text": "۲۰",
+                "position": {
+                  "x": 42,
+                  "y": 1154
+                }
+              }
+            ]
+          }
+        ]
+      }
+    ]
+  }
+]
+
